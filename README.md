@@ -3,7 +3,7 @@
 Hi, my name is **Kristine**.
 
 I’m passionate about **marketing, growth, and ecosystem building in crypto space**.
-I’ve been active in global Web3 communities since early 2024, and currently driving ZkClhttps://github.com/xkristine/xkristine/blob/main/README.mdoud’s entry into Korea. I'm also supporting Pudgy Penguins in growing a Korean community with social media management on a voluntary basis.
+I’ve been active in global Web3 communities since early 2024, and currently driving ZkCloud’s entry into Korea. I'm also supporting Pudgy Penguins in growing a Korean community with social media management on a voluntary basis.
 
 Previously I worked as a product marketing manager for martech B2B SaaS products for about 3 years, driving community engagement and ultimately generating leads for sales growth. Helped Amplitude and Braze to penetrate into Korean market through wide range of B2B marketing initiatives including in-person conference recognized by 1,500+ attendees, regular webinars, customer interview blog posts and publishing educational playbooks for marketers and product managers.
 
