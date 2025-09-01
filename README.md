@@ -1,4 +1,4 @@
-=# CV
+# CV
 
 Hi, my name is **Kristine**.
 
